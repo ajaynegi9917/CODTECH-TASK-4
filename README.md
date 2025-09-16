@@ -28,3 +28,5 @@ In summary, this project shows how data preprocessing, feature engineering, and 
 
 #OUTPUT
 
+<img width="960" height="510" alt="Image" src="https://github.com/user-attachments/assets/56571d34-e63a-48b7-9b88-0f710828cff5" />
+
